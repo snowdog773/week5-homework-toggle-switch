@@ -9,3 +9,8 @@ I will revisit at some stage to work on the gradient fills as I think they can b
 
 Also, I'm not sure about using display: none; on the checkbox. It solved some layout issues I was having but unsure if this will affect functionality if 
 implemented on a live web page.
+
+Just one more thing...
+
+I wanted to change the colour of the div with the .border class when the switch is toggled but can't find the right css selector. I thought input:checked + .border
+was the way but it doesn't seem to work. Any ideas?
